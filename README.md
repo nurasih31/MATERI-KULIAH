@@ -1,2 +1,3 @@
-# MATERI-KULIAH
-Kumpulan materi Perkuliahan
+# DOKUMEN KULIAH
+Kumpulan Dokumen/ Perkuliahan
+Seperti: Jadwal pembelajaran, dan file file penting lainnya
